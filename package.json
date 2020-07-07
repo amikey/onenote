@@ -53,7 +53,7 @@
         "opencollective": "^1.0.3",
         "semver": "^6.1.1",
         "typeface-roboto": "0.0.54",
-        "electron": "=4.2.5"
+        "electron": "=9.1.0"
     },
     "devDependencies": {
         "fs-extra": "^8.0.1",
